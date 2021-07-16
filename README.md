@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waibazen
-- 👀 I’m interested in ...Data Science,Dat Analytics & Big Data
+- 👀 I’m interested in ...Data Science,Data Analytics & Big Data
 - 🌱 I’m currently learning ...AWS Glue,Kafka,Airflow
 - 💞️ I’m looking to collaborate on ...FinTech Domain
 - 📫 How to reach me ...
