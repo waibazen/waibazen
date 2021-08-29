@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waibazen
 - 👀 I’m interested in ...UTILIZING Data Science,Data Analytics & Big Data FOR THE GREATER GOOD!!(not just business!!)
-- 🌱 I’m currently learning ...AWS Glue,ML,Deep Learning and I enjoy working in VS CODE,JUPYTER,PostGreSQL,BigQuery
+- 🌱 I’m currently learning ...IoT,AWS Glue,ML and I enjoy working in VS CODE,SSMS,JUPYTER NB,MSSQL Server,PostGreSQL,BigQuery
 - 💞️ I’m looking to collaborate on ...FinTech,Climate Change & Space Domain
 - 📫 How to reach me ...ON GITHUB,LINKEDIN
 
